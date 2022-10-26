@@ -1,0 +1,15 @@
+.navbar-brand{
+    color: #157347;
+    font-weight: 700;
+}
+
+.navbar-brand:hover{
+    color: rgb(61, 185, 61);
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+/* navbar-brand:visited{ */
+    /* color: #157347; */
+/* } */
+
